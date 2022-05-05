@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Dofler/static/css/main.dfe777ff.css",
+    "main.css": "/Dofler/static/css/main.b7d2d601.css",
     "main.js": "/Dofler/static/js/main.68b3996d.js",
     "static/media/2.jpg": "/Dofler/static/media/2.71109c907d0dde490559.jpg",
     "static/media/boolo-rem.png": "/Dofler/static/media/boolo-rem.17dd6f9ea3458c806ea7.png",
@@ -19,11 +19,11 @@
     "static/media/Five_peopls.jpg": "/Dofler/static/media/Five_peopls.63da53ecfd0a2136797d.jpg",
     "static/media/4.jpg": "/Dofler/static/media/4.f6da15ee3f496251c5aa.jpg",
     "index.html": "/Dofler/index.html",
-    "main.dfe777ff.css.map": "/Dofler/static/css/main.dfe777ff.css.map",
+    "main.b7d2d601.css.map": "/Dofler/static/css/main.b7d2d601.css.map",
     "main.68b3996d.js.map": "/Dofler/static/js/main.68b3996d.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfe777ff.css",
+    "static/css/main.b7d2d601.css",
     "static/js/main.68b3996d.js"
   ]
 }
