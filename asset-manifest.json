@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Dofler/static/css/main.dfe777ff.css",
+    "main.js": "/Dofler/static/js/main.68b3996d.js",
+    "static/media/2.jpg": "/Dofler/static/media/2.71109c907d0dde490559.jpg",
+    "static/media/boolo-rem.png": "/Dofler/static/media/boolo-rem.17dd6f9ea3458c806ea7.png",
+    "static/media/1.jpg": "/Dofler/static/media/1.b702059351409433f8a3.jpg",
+    "static/media/7.jpg": "/Dofler/static/media/7.a397e6533f2cda977cf9.jpg",
+    "static/media/6.jpg": "/Dofler/static/media/6.150994f2330cae7338cf.jpg",
+    "static/media/Egh_peopls.jpg": "/Dofler/static/media/Egh_peopls.a292021e4129f9ae9053.jpg",
+    "static/media/5.jpg": "/Dofler/static/media/5.263b94afb18495c0bdcd.jpg",
+    "static/media/Four_peopls.jpg": "/Dofler/static/media/Four_peopls.42baaf194bbab8a2ac38.jpg",
+    "static/media/First_pepopls.jpg": "/Dofler/static/media/First_pepopls.2cb5b121e9bea098480e.jpg",
+    "static/media/Thre_peopls.jpg": "/Dofler/static/media/Thre_peopls.c2790bb5fc7308ffd308.jpg",
+    "static/media/Two_peopls.jpg": "/Dofler/static/media/Two_peopls.9a55b417e7e7b5d0c780.jpg",
+    "static/media/Six_peopls.jpg": "/Dofler/static/media/Six_peopls.ae54c071d6615d9119c6.jpg",
+    "static/media/Seven_peopls.jpg": "/Dofler/static/media/Seven_peopls.fbfdfb9ba7a03565c685.jpg",
+    "static/media/3.jpg": "/Dofler/static/media/3.fc282163c4675f6bc375.jpg",
+    "static/media/Five_peopls.jpg": "/Dofler/static/media/Five_peopls.63da53ecfd0a2136797d.jpg",
+    "static/media/4.jpg": "/Dofler/static/media/4.f6da15ee3f496251c5aa.jpg",
+    "index.html": "/Dofler/index.html",
+    "main.dfe777ff.css.map": "/Dofler/static/css/main.dfe777ff.css.map",
+    "main.68b3996d.js.map": "/Dofler/static/js/main.68b3996d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfe777ff.css",
+    "static/js/main.68b3996d.js"
+  ]
+}
