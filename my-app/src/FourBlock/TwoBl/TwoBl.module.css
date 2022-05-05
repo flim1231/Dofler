@@ -35,6 +35,12 @@
 }
 
 
+
+.h_q4, .h_q2, .h_w2, .h_w3, .h_2e, .h_3e  {
+    color: #888888
+}
+
+
 .b_box1 .o1 {
     margin-left:-190px;
 }
