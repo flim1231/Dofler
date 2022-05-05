@@ -1,0 +1,103 @@
+.allBlock_THRE {
+    width: 1440px;
+    height: 1240px;
+    background-color:rgb(255, 255, 255);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.section_THRE {
+    margin-top: 60px;
+    width: 1266px;
+    height: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(255, 255, 255);
+}
+
+.image_box_THRE {
+    width: 633px;
+    height: 1017px;
+    margin-top: 68px;
+    position: absolute;
+}
+
+.image_THRE1 {
+    background-image: url("./../../image/people2/1.jpg");
+    width: 568px;
+    height: 758px;
+    position: absolute;
+}
+
+.image_box_THRE h1{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 57px;
+}
+
+
+.image_THRE2 {
+    background-image: url("./../../image/people2/2.jpg");
+    width: 561px;
+    height: 750px;
+    position: absolute;
+}
+
+.image_box_THRE2 {
+    width: 633px;
+    height: 1080px;
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 704px;
+}
+
+
+.image_box_THRE2 p {
+    position: absolute;
+    margin-top: 800px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+
+.image_box_THRE_1 {
+    width: 561px;
+    height: 173px;
+    margin-top: 907px;
+    position: absolute;
+}
+
+.p_1 {
+    position: absolute;
+    margin-left: 705px;
+    margin-top: 135px;
+    width: 135px;
+}
+
+.p_2 {
+    position: absolute;
+    margin-left: 986px;
+    margin-top: 135px;
+    width: 135px;
+}
+
+.img_THRE1 {
+    position: absolute;
+    margin-left: 705px;
+    width: 240px;
+    height: 136px;
+    background-image: url('./../../image/россписи/1.jpg');
+}
+
+.img_THRE2 {
+    position: absolute;
+    margin-left: 986px;
+    width: 240px;
+    height: 136px;
+    background-image: url('./../../image/россписи/2.jpg');
+}

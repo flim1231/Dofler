@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap');
+
+
+.allBlockONE {
+    width: 1296px;
+    height: 1126px;
+    background-color: #ffffff;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 122px;
+}
+
+.box_1one, .box_2one, .box_3one, .box_4one, .box_5one, .box_6one, .box_7one {
+    width: 294px;
+    height: 343px;
+    position: absolute;
+}
+
+.image_1one, .image_2one, .image_3one, .image_4one, .image_5one, .image_6one, .image_7one {
+    width: 294px;
+    height: 294px;
+    position: absolute;
+}
+
+.image_1one {
+    background-image: url('./../../image/Books/1.jpg');
+}
+
+.image_2one {
+    background-image: url('./../../image/Books/2.jpg');
+}
+
+.image_3one {
+    background-image: url('./../../image/Books/3.jpg');
+}
+
+.image_4one {
+    background-image: url('./../../image/Books/4.jpg');
+}
+
+.image_5one {
+    background-image: url('./../../image/Books/5.jpg');
+}
+.image_6one {
+    background-image: url('./../../image/Books/6.jpg');
+}
+.image_7one {
+    background-image: url('./../../image/Books/7.jpg');
+}
+
+
+.paragraf_1one, .paragraf_2one, .paragraf_3one, .paragraf_4one, .paragraf_5one, .paragraf_6one, .paragraf_7one {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 13px;
+    margin-top: 300px;
+    color: rgba(0, 0, 0, 0.5);
+    margin-left: 6px;
+}
+
+.box_1one, .box_2one, .box_3one, .box_4one, .box_5one, .box_6one, .box_7one, h6 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 17px;
+}
+
+/**/
+
+.box_1one h6 {
+    margin-top: 0px;
+    color:black;
+    margin-left: 0px;
+    position: absolute;
+}
+
+.box_2one h6 {
+    margin-top: 0px;
+    color:black;
+    margin-left: 0px;
+    position: absolute;
+}
+
+.box_3one h6 {
+    margin-top: 0px;
+    color:black;
+    margin-left: 0px;
+    position: absolute;
+}
+
+.box_4one h6 {
+    margin-top: 0px;
+    color:black;
+    margin-left: 0px;
+    position: absolute;
+}
+
+.box_5one h6 {
+    margin-top: 0px;
+    color:black;
+    margin-left: 0px;
+    position: absolute;
+}
+
+.box_6one h6 {
+    margin-top: 0px;
+    color:black;
+    margin-left: 0px;
+    position: absolute;
+}
+
+.box_7one h6 {
+    margin-top: 0px;
+    color:black;
+    margin-left: 0px;
+    position: absolute;
+}
+
+/**/
+
+.box_5one, .box_6one {
+    margin-left: 987px;
+}
+
+.box_3one {
+    margin-left: 339px;
+}
+
+.box_4one, .box_7one {
+    margin-left:663px
+}
+
+
+.box_1one {
+    margin-left: 15px;
+}
+.box_2one {
+    margin-left: 15px;
+}
+
+/**/
+
+
+
+
+.box_2one, .box_3one, .box_4one,.box_5one {
+    margin-top: 374px;
+}
+
+
+.box_6one, .box_7one {
+    margin-top: 750px;
+}
+
+
+/*ТЕКСТ НА БЕЛОМ ФОНЕ */
+
+
+.block_text_ONE {
+    width: 913px;
+    height: 228px;
+    position: absolute;
+    margin-left:382px;
+    margin-top: 57px;
+}
+
+
+.block_text_ONE h1{
+    position: absolute;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 114px;
+    line-height: 122px;
+    margin-top: 0px;
+    margin-left: 0px;
+    width:521px;
+    height: 123px;
+
+}
+
+.block_text_ONE p{
+    margin-top: 150px;
+    position: absolute;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+}
+
+
+.paragraf_ONEBLOCK {
+    position: absolute;
+    margin-top: 897px;
+    margin-left: 15px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+}

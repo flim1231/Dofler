@@ -1,0 +1,81 @@
+.allBlock_TWO {
+    width: 1440px;
+    height: 650px;
+    background-color: none
+
+}
+
+.b_box1, .b_box2, .b_box3 {
+    width: 1430px;
+        height: 190px;
+        position: absolute;
+        overflow: hidden;
+}
+
+.b_box1 {
+    margin-top: 0px;
+}
+
+.b_box2 {
+    margin-top: 190px;
+}
+
+.b_box3 {
+    margin-top: 380px;
+}
+
+.h_2q, .h_2w, .h_2e, .h_3q, .h_3e, .h_3w, .h_4q, .h_4w, .h_4e, .h_5w, .h_5e{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 114px;
+    line-height: 100px;
+    position: absolute;
+    height: 112px;
+}
+
+
+.b_box1 .o1 {
+    margin-left:-190px;
+}
+
+.b_box1 .o2 {
+    margin-left:369px;
+}
+
+.b_box1 .o3 {
+    margin-left:918px;
+}
+
+.b_box2 .o4 {
+    margin-left: -350px;
+}
+
+
+.b_box2 .o5 {
+    margin-left: 288px;
+}
+
+.b_box2 .o6 {
+    margin-left: 933px;
+
+}
+
+.b_box3 .o7{
+    margin-left: -250px;
+}
+
+.b_box3 .o8{
+    margin-left: 500px;
+}
+
+.b_box3 .o9{
+    margin-left: 1190px;
+    height: 115px;
+    position: absolute;
+}
+
+.b_box2 .o10 {
+    margin-left: 1197px;
+    position: absolute;
+}

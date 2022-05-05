@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap');
+
+
+.Logo {
+    background-image: url("./../image/logo.png");
+    width: 147px;
+    height: 20px;
+    position: absolute;
+    margin-top: 34px;
+    margin-left: 55px;
+    z-index: 1;
+}
+
+
+
+.allBlock {
+    width: 1440px;
+    height: 800px;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header_item {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    height: 10px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    width: 79px;
+}
+
+.header_item:hover {
+    font-weight: bold;
+
+}
+
+.header_section {
+    display: flex;
+    align-items: center;
+    height: 70px;
+    width: 420px;
+    float: right;
+    z-index: 1;
+}
+
+.header_section a {
+    text-decoration: none;
+    z-index: 1;
+    width: 59px;
+    padding: 0 20px;
+}
+
+
+.loop {
+    padding: 0 25px !important;
+}
+
+
+.box_txt {
+    position: absolute;
+    color: white;
+    width: 1440px;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.txt_0 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 114px;
+    line-height: 125px;
+}
+
+
+
+.boolo {
+    width: 504px;
+    height:567px;
+    position: absolute;
+    background-image: url('./../image/boolo-rem.png');
+
+}
+
+/* нижний текст */
+
+.txt_1 {
+    position: absolute;
+    margin-bottom: 300px;
+    margin-right: 300px;
+}
+
+.txt_2 {
+    position: absolute;
+    margin-left: 126px;
+}
+
+
+.mini_text h5{
+    position: absolute;
+    color: white;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 27px;
+    margin-top: 665px;
+    margin-left: 87px;
+}
+
+.mini_text2 h5, h6{
+    position: absolute;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    color: white;
+    margin-left: 1180px;
+    margin-top: 668px;
+}
+
+.mini_text2 h6 {
+    color: rgba(255, 255, 255, 0.4);
+    margin-top: 695px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 16px;
+}
+
+

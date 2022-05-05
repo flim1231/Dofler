@@ -1,0 +1,108 @@
+.allBlock {
+    width: 1440px;
+    height: 844px;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+.block_section_first {
+    position: absolute;
+    width: 98px;
+    height: 112px;
+    margin-left: 80px;
+    margin-top: 160px;
+}
+
+.paragraf {
+    color: white;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+}
+
+.block_section_first a {
+    text-decoration: none;
+}
+
+.block_section_first p:hover {
+    color:#E8244F;
+    transition: 0.5s ease;
+}
+
+.block_section_two {
+    margin-left: 411px;
+    margin-top: 145px;
+    position: absolute;
+}
+
+.block_section_two h1 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 58px;
+    line-height: 70px;
+    color: white;
+    margin-top: 0px;
+}
+
+.paragraf222 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: white;
+}
+
+.paragraf333 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    color:white;
+}
+
+.line_white {
+    height: 1px;
+    width: 143px;
+    background-color: white;
+}
+
+
+.block_section_thre {
+    width: 1440px;
+    height: 230px;
+
+    margin-top: 550px;
+    position: absolute;
+    overflow: hidden;
+}
+
+.agile, .evidence, .empowerment {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 114px;
+    line-height: 148px;
+    position: absolute;
+}
+
+.agile {
+    color: #E8244F;
+    margin-left: 65px;
+}
+
+.evidence {
+    color: #181818;
+    margin-left: 373px;
+}
+
+.empowerment {
+    color: #181818;
+    margin-left: 913px;
+}

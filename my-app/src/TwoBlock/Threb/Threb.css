@@ -1,0 +1,78 @@
+.all_block_threb {
+    width: 100%;
+    height: 441px;
+}
+
+.block_threb {
+    width: 1296px;
+    height: 301px;
+    margin-top: 196px;
+    margin-bottom: 124px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:none;
+}
+
+.img_threb1, .img_threb2, .img_threb3, .img_threb4, .img_threb5 {
+    width: 253px;
+    height: 76px;
+    position: absolute;
+    margin-top: 98px;
+
+}
+
+.img_threb6, .img_threb7, .img_threb8, .img_threb9, .img_threb10 {
+    width: 253px;
+    height: 76px;
+    position: absolute;
+    margin-top: 224px;
+}
+
+.img_threb1 {
+    background-image: url('./../../image/Company/Admind.jpg');
+    margin-left: 15px;
+}
+
+.img_threb2 {
+    background-image: url('./../../image/Company/AKAT.jpg');
+    margin-left: 268px;
+}
+
+.img_threb3 {
+    background-image: url('./../../image/Company/CORNER.jpg');
+    margin-left: 521px;
+}
+
+.img_threb4 {
+    background-image: url('./../../image/Company/EACTO.jpg');
+    margin-left: 774px;
+}
+
+.img_threb5 {
+    background-image: url('./../../image/Company/Santander.jpg');
+    margin-left: 1027px;
+}
+
+.img_threb6 {
+    background-image: url('./../../image/Company/Setup.jpg');
+    margin-left: 15px;
+}
+
+.img_threb7 {
+    background-image: url('./../../image/Company/Exso.jpg');
+    margin-left: 268px;
+}
+
+.img_threb8 {
+    background-image: url('./../../image/Company/Alfa.jpg');
+    margin-left: 521px;
+}
+
+.img_threb9 {
+    background-image: url('./../../image/Company/Alfa.jpg');
+    margin-left: 774px;
+}
+.img_threb10 {
+    background-image: url('./../../image/Company/BRS.jpg');
+    margin-left:1027px;
+}

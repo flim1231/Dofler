@@ -1,0 +1,121 @@
+.allBlock {
+    width: 1440px;
+    height: 800px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.section {
+    width: 90%;
+    height: 629px;
+    background-color: none;
+    margin-left: 0px;
+    margin-right: 72px;
+    margin-top: 60px;
+
+
+
+}
+
+/*НАЗВАНИЕ*/
+
+
+
+.kol1 {
+    position: absolute;
+    margin-left: 87px;
+    margin-top: 160px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 55px;
+}
+
+.kol2 {
+    position: absolute;
+    margin-left: 87px;
+    margin-top: 303px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 55px;
+}
+
+.kol3 {
+    position: absolute;
+    margin-left: 87px;
+    margin-top: 440px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 55px;
+}
+
+.kol4 {
+    position: absolute;
+    margin-left: 87px;
+    margin-top: 580px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 55px;
+}
+
+
+/*ТЕКСТ*/
+
+.lok1 {
+    position: absolute;
+    margin-top: 176px;
+    margin-left: 709px;
+}
+
+.lok2 {
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 709px;
+}
+
+.lok3 {
+    position: absolute;
+    margin-top: 460px;
+    margin-left: 709px;
+}
+
+.lok4 {
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 709px;
+}
+
+/*КАРТИНКИ*/
+
+
+.image1, .image2, .image3, .image4 {
+    position: absolute;
+    width: 43px;
+    height: 43px;
+    margin-left: 1310px;
+    background-image: url('./../../image/arrow.jpg');
+}
+
+.image1 {
+    margin-top: 160px;
+}
+
+.image2 {
+    margin-top: 310px;
+}
+
+.image3 {
+    margin-top: 450px;
+}
+
+.image4 {
+    margin-top: 590px;
+}

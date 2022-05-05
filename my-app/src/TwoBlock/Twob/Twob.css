@@ -1,0 +1,182 @@
+.allBlockTWO {
+    width: 100%;
+    height: 1532px;
+    background-color: rgb(255, 255, 255);
+}
+
+.block_section {
+    width: 1296px;
+    height: 1532.5px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(255, 255, 255);
+}
+
+.boxFirst {
+    width: 972px;
+    height: 338px;
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+}
+
+.boxFirst h1 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 114px;
+    line-height: 122px;
+    position: absolute;
+    margin-top: 0;
+}
+
+/*/////////////////////////////////////////////////////////////////////////*/
+
+
+
+.image11, .image22, .image33, .image44, .image55, .image66, .image77, .image88 {
+    height: 294px;
+    width: 294px;
+    position: absolute;
+}
+
+.box11, .box22, .box33, .box44, .box55, .box66, .box77, .box88 {
+    width: 294px;
+    height: 338px;
+    overflow: hidden;
+    position: absolute;
+}
+
+.clP1, .clP2, .clP3, .clP4, .clP5, .clP6, .clP7, .clP8 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 16px;
+    margin-top: 300px;
+    z-index: 1;
+    overflow-wrap: break-word;
+}
+
+
+/*КАРТИНКИ*/
+
+
+.image11 {
+    background-image: url('./../../image/PEOPLE/First_pepopls.jpg');
+}
+
+.image22 {
+    background-image: url('./../../image/PEOPLE/Two_peopls.jpg');
+}
+
+.image33 {
+    background-image: url('./../../image/PEOPLE/Thre_peopls.jpg');
+}
+
+.image44 {
+    background-image: url('./../../image/PEOPLE/Four_peopls.jpg');
+}
+
+.image55 {
+    background-image: url('./../../image/PEOPLE/Five_peopls.jpg');
+}
+
+.image66 {
+    background-image: url('./../../image/PEOPLE/Six_peopls.jpg');
+}
+
+.image77 {
+    background-image: url('./../../image/PEOPLE/Seven_peopls.jpg');
+}
+
+.image88 {
+    background-image: url('./../../image/PEOPLE/Egh_peopls.jpg');
+}
+
+/*Расстояние от стен*/
+/*MARGIN-LEFT*/
+
+.box11, .box22, .box33 {
+    margin-left: 1000px;
+}
+
+.box44, .box55 {
+    margin-left: 676px;
+}
+
+.box66, .box77 {
+    margin-left: 352px;
+}
+
+.box88 {
+    margin-left: 28px;
+}
+
+/*MARGIN-TOP*/
+
+.box11 {
+    margin-top: 0px;
+}
+.box22, .box44 {
+    margin-top: 385px;
+}
+
+.box33, .box55, .box66 {
+    margin-top: 770px;
+}
+
+.box77, .box88 {
+    margin-top: 1155px;
+}
+
+/**/
+
+.white_box1 {
+    position: absolute;
+    width: 648px;
+    height: 338px;
+    background-color: white;
+    margin-top: 385px;
+}
+
+.white_box1P{
+    margin-top: 95px;
+    margin-left: 15px;
+}
+
+.white_box1P2 {
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.white_box1 p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+}
+
+
+
+
+
+
+
+.white_box2 {
+    position: absolute;
+    width: 648px;
+    height: 338px;
+    margin-left: 675px;
+    margin-top: 1155px;
+}
+
+.white_box2 p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+    margin-top: 150px;
+    margin-left: 65px;
+}
